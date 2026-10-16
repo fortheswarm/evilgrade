@@ -1,3 +1,5 @@
+> **Personal fork — not intended for public consumption.** This is a personal working copy of [infobyte/evilgrade](https://github.com/infobyte/evilgrade), kept for experiments. It is unmaintained and unsupported, may diverge from upstream or be rewritten at any time, and nothing here is released for others to use. Use the upstream project instead.
+
 <p align="center" >
   <img src="https://code.google.com/p/isr-evilgrade/logo?cct=1312258454" alt="Infobyte" title="Infobyte">
 </p>
